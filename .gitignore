@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+big_dataset/
+final_dataset/
+output_scaled/
+runs/
+.venv/

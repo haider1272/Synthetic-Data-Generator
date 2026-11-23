@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pillow
+pyyaml
+torch
+transformers
+ultralytics
+matplotlib
